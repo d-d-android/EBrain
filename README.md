@@ -5,4 +5,4 @@ Embedded PC based robot system
 ## main profile
 Modile PC based robot system
 ## Advance profile 
-Beffy PC or Workstation based robot system
+Beefy PC or Workstation based robot system
